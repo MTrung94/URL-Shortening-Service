@@ -1,0 +1,4 @@
+mkdir url-shortener-api
+cd url-shortener-api
+npm init -y
+npm install express uuid cors
